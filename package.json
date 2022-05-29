@@ -11,8 +11,10 @@
     "asn1": "^0.2.4",
     "bcrypt-pbkdf": "^1.0.2"
   },
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  },
   "optionalDependencies": {
-    "cpu-features": "~0.0.4",
     "nan": "^2.15.0"
   },
   "scripts": {
